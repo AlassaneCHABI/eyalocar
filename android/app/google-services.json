@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "152343507164",
+    "firebase_url": "https://advanced-eyalocar-default-rtdb.firebaseio.com",
+    "project_id": "advanced-eyalocar",
+    "storage_bucket": "advanced-eyalocar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152343507164:android:6c3448c82d67a0b799c419",
+        "android_client_info": {
+          "package_name": "com.eyalocar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9gX1jCKfTKQv5jPRl_R3PWTeXT3MsRyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
